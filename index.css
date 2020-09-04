@@ -10,7 +10,7 @@ body {
   /* your properties here */
   display: grid;
 
-    grid-template-columns: as 50px auto 25%,
+    grid-template-rows: as 50px auto 25%,
 }
 
 .grid-item {
