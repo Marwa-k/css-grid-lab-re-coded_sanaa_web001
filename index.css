@@ -9,8 +9,8 @@ body {
   width: 100vw;
   /* your properties here */
   display: grid;
-
-    grid-template-rows: as 50px auto 25%,
+    grid-template: auto  / 1fr 1fr 1fr;
+    
 }
 
 .grid-item {
